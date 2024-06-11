@@ -1,5 +1,5 @@
 {
-	"name": "chat-app-yt",
+	"name": "chat-app-Aditya",
 	"version": "1.0.0",
 	"description": "",
 	"main": "server.js",
@@ -10,16 +10,18 @@
 	},
 	"type": "module",
 	"keywords": [],
-	"author": "",
+	"author": "ADITYA RAJ",
 	"license": "ISC",
 	"dependencies": {
 		"bcryptjs": "^2.4.3",
 		"cookie-parser": "^1.4.6",
+		"cors": "^2.8.5",
 		"dotenv": "^16.4.1",
 		"express": "^4.18.2",
 		"jsonwebtoken": "^9.0.2",
 		"mongoose": "^8.1.1",
-		"socket.io": "^4.7.4"
+		"socket.io": "^4.7.4",
+		"socket.io-client": "^4.7.5"
 	},
 	"devDependencies": {
 		"nodemon": "^3.0.3"
