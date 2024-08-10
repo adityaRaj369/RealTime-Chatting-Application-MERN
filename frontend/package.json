@@ -12,6 +12,7 @@
   "dependencies": {
     "chat-app-Aditya": "file:..",
     "chat-app-yt": "file:..",
+    "frontend": "file:",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-hot-toast": "^2.4.1",
