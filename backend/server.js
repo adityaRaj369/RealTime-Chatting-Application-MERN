@@ -105,7 +105,7 @@ const urlsToPing = [
 ];
 
 // Ping the servers every 5 minutes
-setInterval(() => pingMultipleLinks(urlsToPing), 5 * 60 * 1000);
+setInterval(() => pingMultipleLinks(urlsToPing),60 * 60 * 1000);
 
 server.listen(PORT, () => {
   connectToMongoDB();
